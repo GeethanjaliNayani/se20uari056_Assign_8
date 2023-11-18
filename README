@@ -1,0 +1,26 @@
+Situation/Environment: Park
+
+Objective: To monitor, manage, and optimize the safety, and usage of the park using a digital twin.
+
+3D Assets:
+1. Trees and vegetation
+2. Benches
+3. Soccer balls
+4. Walking paths
+5. Water bodies such as fountains etc
+6. Entrances and exits
+7. Fence
+8. Sky
+9. Grass
+
+Dynamic elements:
+1. People (visitors)
+2. Animals (like birds, squirrels)
+3. Vehicles (park maintenance vehicles)
+4. Basic Data Required:
+
+Usage Data:
+Foot traffic patterns (which areas are most frequented?)
+Time of day when the park is most used
+Usage of facilities like benches
+
